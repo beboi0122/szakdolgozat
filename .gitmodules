@@ -4,6 +4,6 @@
 [submodule "SmartHomeRaspberry"]
 	path = SmartHomeRaspberry
 	url = https://github.com/beboi0122/SmartHomeRaspberry.git
-[submodule "SmartHomeArduino"]
-	path = SmartHomeArduino
-	url = https://github.com/beboi0122/SmartHomeArduino.git
+[submodule "SmartHomeMicrocontroller"]
+	path = SmartHomeMicrocontroller
+	url = https://github.com/beboi0122/SmartHomeMicrocontroller.git
